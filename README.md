@@ -38,12 +38,10 @@ graduate with 2+ years combined internship and professional experience. Fluent i
 
 #
 
-### 📈 My Github Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timothypattikawa&layout=compact&theme=buefy&hide_border=true&theme=dark)
+### 📈 My Github Stats and My Oldest Github Stats [<a href="https://github.com/timopattikawa">timopattikawa</a>]
+![Timotius's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timothypattikawa&layout=compact&theme=buefy&hide_border=true&theme=dark) 
 
-### 📈 My Oldest Github Stats [<a href="https://github.com/timopattikawa">timopattikawa</a>]
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timopattikawa&layout=compact&theme=buefy&hide_border=true&theme=dark)
-
+![Timotius's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timopattikawa&layout=compact&theme=buefy&hide_border=true&theme=dark)
 
 #
 
