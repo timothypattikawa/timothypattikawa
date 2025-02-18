@@ -2,8 +2,7 @@
 
 **`Software Engineer | Backend Engineer`**
 
-I am a Software Engineer. I’m a Organized and self-motivated software engineer
-graduate with 2+ years combined internship and professional experience. Fluent in Java, Spring, Golang, Go Echo, SQL(MySQL, PostgreSQL), NoSQL(Redis, MongoDB), Python, Typescript, Kafka, Google PubSub, docker, etc. I have several experiences currently, I work as a Backend Developer for Alfagift, previously my experience internship as a Fullstack Engineer at nexSOFT, and at a University as a Lecturer Assistant and Freelance Developer. With the experiences that I have, I hope that I can contribute to the company and grow with the company in the future, but not only do I want to contribute but I also want to learn a lot and always learn about software engineer
+I am a Software Engineer. I’m a software engineer with 2+ years combined internship and professional experience. Fluent in Java, Spring, Golang, Go Echo, SQL(MySQL, PostgreSQL), NoSQL(Redis, MongoDB), Python, Typescript, Kafka, Google PubSub, docker, etc. I have several experiences currently, I work as a Backend Developer for Alfagift, previously my experience internship as a Fullstack Engineer at nexSOFT, and at a University as a Lecturer Assistant and Freelance Developer. With the experiences that I have, I hope that I can contribute to the company and grow with the company in the future, but not only do I want to contribute but I also want to learn a lot and always learn about software engineer
 
    <p align="left">
       <a href="https://leetcode.com/u/t1m2ky/">
